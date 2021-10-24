@@ -686,6 +686,7 @@ video {
   --gray-default: #343a40;
   --gray-light: #b3b9bf;
 }
+
 .hover\:bg-primary-dark:hover {
 	background-color: var(--primary-dark);
 }
